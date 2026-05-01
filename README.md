@@ -28,3 +28,68 @@
     </td>
   </tr>
 </table>
+- 🔭 Estudando atualmente: **Engenharia de Software na ITE e Fazendo estagio trabalhando com Delphi e SQL**
+- 🌱 Aprendendo: **Arquitetura de Software & Delphi**
+- 💡 Objetivo: **Conseguir minha primeira vaga em TI**
+- 📫 Contato: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/real_mld.4real/)
+
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DaniDev77&theme=dark&hide_border=true&date_format=j%2Fn%5BY%5D)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/DaniDev77?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/DaniDev77)
+[![GitHub stars](https://img.shields.io/github/stars/DaniDev77?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/DaniDev77)
+[![Profile Views](https://komarev.com/ghpvc/?username=DaniDev77&style=for-the-badge&color=blueviolet)](https://github.com/DaniDev77)
+
+</div>
+
+---
+
+## 🎯 Metas para 2026
+
+- ✅ Dominar C# e ASP.NET
+- ✅ Evoluir em HTML, CSS e JavaScript
+- ⭕ Construir 3 projetos completos no portfólio
+- ⭕ Contribuir com projetos open source
+- ⭕ Conseguir minha primeira vaga em TI
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/DaniDev77/DaniDev77/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Daniel Henrique de Oliveira Vilela · São Paulo, Brasil</i>
+</div>
