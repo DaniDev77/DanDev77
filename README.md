@@ -84,8 +84,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/DaniDev77/DaniDev77/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/DanDev77/DanDev77/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
